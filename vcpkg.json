@@ -1,0 +1,4 @@
+{
+    "name": "ocrtest",
+    "dependencies": ["poppler", "tesseract"]
+}
